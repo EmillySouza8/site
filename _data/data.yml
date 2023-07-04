@@ -13,33 +13,18 @@ contact:
   twitter: emilly_alana0
 
 education:
-  - degree: Ciências Econômicas 
+  - degree: Fámarcia  
     time: 2023- Atual
-    university: UERN
+    university: UNINASSAU
 
   - degree: Técnico em Informática
     time: 2023- Atual
     university: IFRN
 
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+
 
 # Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+Habilidades Interpessoais: |
+  Organização
+  Trabalho em Equipe
+  Comprometimento
